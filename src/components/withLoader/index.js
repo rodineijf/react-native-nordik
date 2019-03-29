@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   animation: {
-    height: 120,
-    width: 120,
+    height: 240,
+    width: 240,
   },
 });
